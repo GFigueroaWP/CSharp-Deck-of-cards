@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\bin\Debug\net6.0\Deck-of-cards.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\bin\Debug\net6.0\Deck-of-cards.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\bin\Debug\net6.0\Deck-of-cards.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\bin\Debug\net6.0\Deck-of-cards.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\bin\Debug\net6.0\Deck-of-cards.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\refint\Deck-of-cards.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\Deck-of-cards.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Deck-of-cards\obj\Debug\net6.0\ref\Deck-of-cards.dll
